@@ -6,6 +6,7 @@
 
 ## ▎🛠 Tech Stacks
 - Data: 
+<span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"/></span><br/>
