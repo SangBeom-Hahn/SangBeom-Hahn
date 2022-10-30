@@ -2,8 +2,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=SangBeom-Hahn&show_icons=true&count_private=true&line_height=24&theme=material-palenight&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SangBeom-Hahn&layout=compact&theme=material-palenight)
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SangBeom-Hahn&layout=compact&theme=material-palenight)
-
 
 
 ## ▎🛠 Tech Stacks
