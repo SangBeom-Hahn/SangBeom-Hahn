@@ -7,9 +7,9 @@
 
 
 ## ▎🛠 Tech Stacks
-- Data: <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></span><br/>
-<span><img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white"/></span><br/>
-<span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></span><br/>
+- Data: <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Numpy-013243style=flat&logo=Numpy&logoColor=white"/></span>
 
 
 - Front-end : <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
