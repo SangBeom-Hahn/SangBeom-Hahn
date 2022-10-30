@@ -1,11 +1,17 @@
-# ▎안녕하세요,<br>▎백엔드 개발자를 꿈꾸는<br>▎장보연입니다.
+# ▎안녕하세요,<br>▎머신러닝 엔지니어를 꿈꾸는<br>▎한상범입니다.
 
 ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=BoYeonJang&show_icons=true&count_private=true&line_height=24&theme=material-palenight&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoYeonJang&layout=compact&theme=material-palenight)
 <!-- ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BoYeonJang&layout=compact&theme=material-palenight) -->
 
+
+
 ## ▎🛠 Tech Stacks
 - Data: <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></span><br/>
+<span><img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white"/></span><br/>
+<span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></span><br/>
+
+
 - Front-end : <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/CSS-1572b6?style=flat&logo=css3&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></span>
@@ -19,9 +25,14 @@
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=GitLab&logoColor=white"/></span>
 
-## ▎📚 Blog For Learning
-<!-- - ### https://velog.io/@colorful-stars - 🔧fixing🔧-->
-- ### https://boyeonjang.github.io/
 
+
+## ▎📚 Blog For Learning
+- ### https://hsb422.tistory.com/
+
+
+
+<!--
 ## ▎🧑‍💻 Portfolio Notion
 - ### https://fine-quotation-3da.notion.site/e3d1966d2a604fc4b2536885a73f8bae
+-->
