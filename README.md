@@ -4,8 +4,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SangBeom-Hahn&layout=compact&theme=material-palenight)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SangBeom-Hahn)](https://github.com/anuraghazra/github-readme-stats)
-
 ## ▎🛠 Tech Stacks
 - Data: 
 <span><img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white"/></span>
