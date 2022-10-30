@@ -1,6 +1,7 @@
 # ▎안녕하세요,<br>▎머신러닝 엔지니어를 꿈꾸는<br>▎한상범입니다.
 
-![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=SangBeom-Hahn&show_icons=true&count_private=true&line_height=24&theme=material-palenight&hide=stars)
+![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=SangBeom-Hahn&show_icons=true&count_private=true&line_height=24&theme=material-palenight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SangBeom-Hahn&layout=compact&theme=material-palenight)
 
 
