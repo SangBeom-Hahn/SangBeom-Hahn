@@ -2,8 +2,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=SangBeom-Hahn&show_icons=true&count_private=true&line_height=24&theme=material-palenight&hide=stars)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SangBeom-Hahn&layout=compact&theme=material-palenight)
-
 ## ▎🛠 Tech Stacks
 - Data: 
 <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></span>
@@ -11,6 +9,9 @@
 <span><img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"/></span><br/>
 
+
+- Back-end : <span><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/CSS-1572b6?style=flat&logo=Spring&logoColor=white"/></span>
 
 - Front-end : <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/CSS-1572b6?style=flat&logo=css3&logoColor=white"/></span>
