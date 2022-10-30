@@ -30,8 +30,8 @@
 
 - Engineering : <span><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Dockert&logoColor=white"/></span>
 
-▎📚 It's Me
-<a href="https://hsb422.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+## ▎📚 It's Me
+- <a href="https://hsb422.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 <a href="mailto:hsb990917@gmail.com"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hsb990917@gmail.com"/></a>
 
 <!--
