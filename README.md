@@ -1,4 +1,4 @@
-## ▎안녕하세요, 머신러닝 엔지니어를 꿈꾸는 한상범입니다.
+## ▎Hello, I'm Sangbeom Hahn 😊
 
 ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=SangBeom-Hahn&show_icons=true&count_private=true&line_height=24&theme=material-palenight&hide=stars)
 
@@ -12,9 +12,11 @@
 
 - Back-end : <span><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></span>
 
+<!--
 - Front-end : <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/CSS-1572b6?style=flat&logo=css3&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></span><br/>
+-->
 
 <!--
 - Database : <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></span>
