@@ -9,7 +9,7 @@
 
 ## ▎🛠 Tech Stacks
 - <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"/></span><br/>
+<span><img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></span>
 
 - <span><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Dockert&logoColor=white"/></span>
@@ -32,10 +32,10 @@
 
 
 - Communication : <span><img src="https://img.shields.io/badge/Jira-0052cc?style=flat&logo=jira&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/></span><br/> -->
+<span><img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/></span><br/>
 - Version Control : 
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span>
- <span><img src="https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=GitLab&logoColor=white"/></span> -->
+ <span><img src="https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=GitLab&logoColor=white"/></span>
 
 - Engineering : <span><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Dockert&logoColor=white"/></span>
 -->
