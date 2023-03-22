@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=SangBeom-Hahn&show_icons=true&count_private=true&line_height=24&theme=material-palenight&hide=stars)
 
 ## ▎✏️ Current Interest
-- Natural Language Processing
+- Computer Vision
 - Generative Adversarial Network
 - MLOps(Machine Learning Operation)
 
