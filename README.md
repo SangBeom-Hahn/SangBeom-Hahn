@@ -15,6 +15,7 @@
 - Engineering : <span><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Dockert&logoColor=white"/></span>
 -->
 
+<!--
 
 ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=SangBeom-Hahn&show_icons=true&count_private=true&line_height=24&theme=material-palenight&hide=stars)
 
@@ -39,7 +40,7 @@
 4. 어노테이션 AI 인턴 (2023.03 ~ 2023.05)
 
 ## ▎📗 Devblog
- - [spring 중간점검 3](https://hsb422.tistory.com/entry/spring-PART%EC%A4%91%EA%B0%84%EC%A0%90%EA%B2%80-3)
+ - [spring을 계속 중간점검 할 예정입니다.](https://hsb422.tistory.com/entry/spring-PART%EC%A4%91%EA%B0%84%EC%A0%90%EA%B2%80-3)
  - [도커 어플리케이션 서버 개발기](https://hsb422.tistory.com/entry/%E3%85%81%EB%8F%84%EC%BB%A4-PART%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%8F%84%EC%BB%A4-%ED%99%9C%EC%9A%A9SW-bootcamp)
  - [22년 회고 23년 시작](https://hsb422.tistory.com/entry/%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%94%84-%EC%A7%80%EC%9B%90-%ED%9A%8C%EA%B3%A0)
 
@@ -48,7 +49,7 @@
 <a href="mailto:hsb990917@gmail.com"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hsb990917@gmail.com"/></a>
 
 
-
+-->
 
 <!--
 <a href="https://instagram.com/nayeongold"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
