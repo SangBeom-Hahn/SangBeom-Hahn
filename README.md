@@ -18,6 +18,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=SangBeom-Hahn&show_icons=true&count_private=true&line_height=24&theme=material-palenight&hide=stars)
 
 ## ▎Current Interest
+- 스프링 프레임워크
 - 단순, DB 예외처리
 - 테스트 케이스 작성
 
@@ -36,7 +37,7 @@
 1. BOAZ 18기 (2022.01 ~ 2023.01)
 2. 2022 데이터 청년 캠퍼스 (2022.06 ~ 2022.08)
 3. 네트워크형 캠퍼스 아카데미(2022.09 ~ 2023.02)
-4. 어노테이션 AI 인턴 (2023.03 ~ 2023.05)
+4. 어노테이션에이아이 백엔드 인턴 (2023.03 ~ 2023.06)
 
 ## ▎Devblog
  - [spring을 계속 중간점검 할 예정입니다.](https://hsb422.tistory.com/entry/spring-PART%EC%A4%91%EA%B0%84%EC%A0%90%EA%B2%80-3)
