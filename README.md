@@ -40,6 +40,10 @@
 4. 어노테이션에이아이 백엔드 인턴 (2023.03 ~ 2023.06)
 
 ## ▎Devblog
+ - [JPA 없이 enum 타입 DB에 저장하기](https://hsb422.tistory.com/entry/spring-PARTJPA-%EC%82%AC%EC%9A%A9%ED%95%98%EC%A7%80-%EC%95%8A%EA%B3%A0-enum-%ED%83%80%EC%9E%85-DB%EC%97%90-%EC%A0%80%EC%9E%A5%ED%95%98%EA%B8%B0)
+ - [네이버 영화 ERD 설계](https://hsb422.tistory.com/entry/%E3%85%81DB-%EC%84%A4%EA%B3%84-PART%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%98%81%ED%99%94-ERD-%EC%84%A4%EA%B3%84)
+ - [DB 실행계획](https://hsb422.tistory.com/entry/%E3%85%81DB-%EC%84%A4%EA%B3%84-PART%EC%9D%B8%EB%8D%B1%EC%8A%A4-explain)
+ - [캡스톤 디자인 설계](https://hsb422.tistory.com/entry/%E3%85%81%EC%BA%A1%EC%8A%A4%ED%86%A4-%EB%94%94%EC%9E%90%EC%9D%B8-PART1%EC%A3%BC%EC%B0%A8%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%ED%9A%8D-%EC%84%A4%EA%B3%84-%EB%8B%A8%EA%B3%84)
  - [도커 어플리케이션 서버 개발기](https://hsb422.tistory.com/entry/%E3%85%81%EB%8F%84%EC%BB%A4-PART%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%8F%84%EC%BB%A4-%ED%99%9C%EC%9A%A9SW-bootcamp)
  - [22년 회고 23년 시작](https://hsb422.tistory.com/entry/%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%94%84-%EC%A7%80%EC%9B%90-%ED%9A%8C%EA%B3%A0)
 
