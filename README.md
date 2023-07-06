@@ -15,7 +15,7 @@
 - Engineering : <span><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Dockert&logoColor=white"/></span>
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=SangBeom-Hahn&show_icons=true&count_private=true&line_height=24&theme=material-palenight&hide=stars)
+![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=SangBeom-Hahn&show_icons=true&count_private=true&line_height=24&theme=material-palenight)
 
 ## ▎Current Interest
 - 스프링 프레임워크
