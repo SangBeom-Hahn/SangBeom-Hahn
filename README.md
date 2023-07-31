@@ -18,6 +18,12 @@
 ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=SangBeom-Hahn&show_icons=true&count_private=true&line_height=24&theme=material-palenight)
 
 ## ▎Current Interest
+
+#### Machine Learning Engineering
+- Generative Model
+- Large Language Model
+
+#### BackEnd Engineering
 - 스프링 프레임워크
 - 가독성 좋은 유지보수 가능한 코드 작성
 - 객체 지향적인 설계
@@ -26,6 +32,7 @@
 
 ## ▎Tech Stacks
 <p>
+<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a> &nbsp
@@ -39,7 +46,7 @@
 1. BOAZ 18기 (2022.01 ~ 2023.01)
 2. 2022 데이터 청년 캠퍼스 (2022.06 ~ 2022.08)
 3. 네트워크형 캠퍼스 아카데미(2022.09 ~ 2023.02)
-4. 어노테이션에이아이 인턴 (2023.03 ~ 2023.06)
+4. 어노테이션에이아이 ML 인턴 (2023.03 ~ 2023.06)
 
 ## ▎Devblog
  - [JPA 없이 enum 타입 DB에 저장하기](https://hsb422.tistory.com/entry/spring-PARTJPA-%EC%82%AC%EC%9A%A9%ED%95%98%EC%A7%80-%EC%95%8A%EA%B3%A0-enum-%ED%83%80%EC%9E%85-DB%EC%97%90-%EC%A0%80%EC%9E%A5%ED%95%98%EA%B8%B0)
