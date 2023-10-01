@@ -19,12 +19,9 @@
 
 ## ▎Current Interest
 
-<!--
 #### Machine Learning Engineering
 - Generative Model
 - Large Language Model
-
--->
 
 #### BackEnd Engineering
 - 스프링 프레임워크
@@ -35,7 +32,7 @@
 
 ## ▎Tech Stacks
 <p>
-<!--<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/></a> &nbsp-->
+<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a> &nbsp
