@@ -17,6 +17,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=SangBeom-Hahn&show_icons=true&count_private=true&line_height=24&theme=material-palenight)
 
+<!--
+
 ## ▎Current Interest
 
 #### Machine Learning Engineering
@@ -29,6 +31,8 @@
 - 객체 지향적인 설계
 - 단순 검증, 비즈니스 로직 예외처리
 - 단위, 통합 테스트
+
+-->
 
 ## ▎Tech Stacks
 <p>
