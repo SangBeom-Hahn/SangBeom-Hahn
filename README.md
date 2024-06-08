@@ -58,6 +58,16 @@
 5. 어노테이션 AI Internship (```2023.03 ~ 2023.06```)
 6. 네이버 부스트캠프 AI Tech 6기 (```2023.11 ~ 2024.04```)
 
+## ▎Current Interest
+- [Java Core](https://github.com/SangBeom-Hahn/OOP)
+
+<!--
+- [Spring Core]()
+- [ML Core]()
+- [ML & Web Infra]()
+-->
+
+
 ## ▎Devblog
  - [스프링 코드 분석을 위해서 반드시 알아야 하는 인터페이스](https://hsb422.tistory.com/entry/%EB%AC%B8%EB%B2%95)
  - [상속은 코드의 재활용이 아니다.](https://hsb422.tistory.com/entry/%E3%85%81%EB%AC%B8%EB%B2%95)
