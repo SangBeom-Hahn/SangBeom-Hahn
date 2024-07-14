@@ -52,7 +52,7 @@
 
 ## ▎Experience
 1. BOAZ 18기 (```2022.01 ~ 2023.01```)
-2. 경기대학교 AI컴퓨터공학부 홈페이지 개발팀 (```2022.06 ~ 2023.06```)
+2. 컴퓨터공학부 홈페이지 개발팀 (```2022.06 ~ 2023.06```)
 3. 2022 데이터 청년 캠퍼스 (```2022.06 ~ 2022.08```)
 4. 네트워크형 캠퍼스 아카데미(```2022.09 ~ 2023.02```)
 5. 어노테이션 AI Internship (```2023.03 ~ 2023.06```)
@@ -60,6 +60,8 @@
 
 ## ▎Current Interest
 - [Java Core](https://github.com/SangBeom-Hahn/OOP)
+- [Spring Core](https://github.com/SangBeom-Hahn/My_Spring)
+- [DL Operation](https://hsb422.tistory.com/category/%5BAI%5D/%5B%EB%94%A5%EB%9F%AC%EB%8B%9D%20%7C%20%EC%9D%B4%EC%8A%88%5D)
 
 <!--
 - [Spring Core]()
@@ -69,12 +71,13 @@
 
 
 ## ▎Devblog
+ - [JVM의 역할과 동작 원리](https://hsb422.tistory.com/entry/%EC%BD%94%EB%93%9C-%EC%A1%B0%EC%9E%91-PARTJVM-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
  - [스프링 코드 분석을 위해서 반드시 알아야 하는 인터페이스](https://hsb422.tistory.com/entry/%EB%AC%B8%EB%B2%95)
  - [상속은 코드의 재활용이 아니다.](https://hsb422.tistory.com/entry/%E3%85%81%EB%AC%B8%EB%B2%95)
  - [접근 지정자와 static 동작 원리](https://hsb422.tistory.com/entry/%E3%85%81%EB%AC%B8%EB%B2%95-PART)
  - [캐글 코리아 발표 후기](https://hsb422.tistory.com/entry/%EC%BA%90%EA%B8%80-%EC%BD%94%EB%A6%AC%EC%95%84-%EC%A0%9C-5%ED%9A%8C-%EB%AA%A8%EA%B0%81%EC%BA%90-%EB%B0%9C%ED%91%9C-%EC%84%B8%EC%85%98-%ED%9B%84)
  - [AccessToken 탈취 문제 해결](https://hsb422.tistory.com/entry/%EC%BA%A1%EC%8A%A4%ED%86%A4-%EB%94%94%EC%9E%90%EC%9D%B8-PARTRefreshToken-%EC%A1%B0%ED%9A%8C-%EC%B5%9C%EC%A0%81%ED%99%94%EB%A5%BC-%EC%9C%84%ED%95%9C-Redis-%EB%8F%84%EC%9E%85)
- - [데이터 제작의 중요성](https://hsb422.tistory.com/entry/%EB%AF%B8-%EA%B9%83%ED%97%99-%ED%94%84%EB%A1%9C%ED%95%84-%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%94%84-AI-Tech-12%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
+ - [DL 데이터 제작의 중요성](https://hsb422.tistory.com/entry/%EB%AF%B8-%EA%B9%83%ED%97%99-%ED%94%84%EB%A1%9C%ED%95%84-%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%94%84-AI-Tech-12%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
  - [GPU 풀 구현기](https://hsb422.tistory.com/entry/ML-PARTGPU-%ED%92%80-%EA%B5%AC%ED%98%84%EA%B8%B0-2)
  - [한국어 ChatPDF 개발](https://hsb422.tistory.com/entry/%EB%84%A4-%EB%B2%88%EC%A7%B8-%EB%AF%B8%EC%85%98%ED%95%9C%EA%B5%AD%EC%96%B4-ChatPDF-%EA%B0%9C%EB%B0%9C)
  - [네이버 영화 ERD 설계](https://hsb422.tistory.com/entry/%E3%85%81DB-%EC%84%A4%EA%B3%84-PART%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%98%81%ED%99%94-ERD-%EC%84%A4%EA%B3%84)
