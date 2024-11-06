@@ -62,6 +62,7 @@
 
 ## ▎Talks
  - [캐글코리아 - 분산 GPU 메시지 스케줄러 구현 및 운영 방법 오프라인 발표](https://hsb422.tistory.com/entry/talkskaggle-korea)
+ - [발표자료](https://drive.google.com/file/d/1ffjOeboSP-_NEdxmuCFVZ5Mk-QV-Lhkc/view?usp=sharing)
 
 ## ▎Current Interest
 - [Java Core](https://github.com/SangBeom-Hahn/OOP)
