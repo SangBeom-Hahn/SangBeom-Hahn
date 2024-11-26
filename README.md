@@ -77,11 +77,11 @@
 
 
 ## ▎Devblog
+ - [Redis Stream 내부 ObjectHashMapper를 이용하여 HASH 역직렬화 자동화하기](https://hsb422.tistory.com/entry/jackson-json)
  - [Redis Stream에 적절한 RedisSerializer를 사용하자](https://hsb422.tistory.com/entry/%EC%B5%9C%EC%A0%81%ED%99%94-Redis-%EC%A7%81%EB%A0%AC%ED%99%94%EB%A5%BC-%EC%9C%84%ED%95%9C-Java-%EC%A7%81%EB%A0%AC%ED%99%94-%EC%8B%A4%EC%8A%B5)
  - [JVM의 역할과 동작 원리](https://hsb422.tistory.com/entry/%EC%BD%94%EB%93%9C-%EC%A1%B0%EC%9E%91-PARTJVM-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
  - [요청과 응답, HttpMessageConverter](https://hsb422.tistory.com/entry/%EB%AC%B8%EB%B2%95-%EC%9A%94%EC%B2%AD%EA%B3%BC-%EC%9D%91%EB%8B%B5-HttpMessageConverter)
  - [Spring 핸들러 어댑터, API 설계 실전](https://hsb422.tistory.com/entry/%EB%AC%B8%EB%B2%95-Spring-%ED%95%B8%EB%93%A4%EB%9F%AC-%EC%96%B4%EB%8C%91%ED%84%B0)
- - [컨테이너 계층, 싱글톤 컨테이너](https://hsb422.tistory.com/entry/%EB%AC%B8%EB%B2%95-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EA%B3%84%EC%B8%B5-%EC%8B%B1%EA%B8%80%ED%86%A4-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88)
  - [AccessToken 탈취 문제 해결](https://hsb422.tistory.com/entry/%EC%BA%A1%EC%8A%A4%ED%86%A4-%EB%94%94%EC%9E%90%EC%9D%B8-PARTRefreshToken-%EC%A1%B0%ED%9A%8C-%EC%B5%9C%EC%A0%81%ED%99%94%EB%A5%BC-%EC%9C%84%ED%95%9C-Redis-%EB%8F%84%EC%9E%85)
  - [DL 데이터 제작의 중요성](https://hsb422.tistory.com/entry/%EB%AF%B8-%EA%B9%83%ED%97%99-%ED%94%84%EB%A1%9C%ED%95%84-%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%94%84-AI-Tech-12%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
  - [GPU 풀 구현기](https://hsb422.tistory.com/entry/ML-PARTGPU-%ED%92%80-%EA%B5%AC%ED%98%84%EA%B8%B0-2)
