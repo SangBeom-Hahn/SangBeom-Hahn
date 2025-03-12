@@ -67,7 +67,7 @@
 ## ▎Current Interest
 - [Java Core](https://github.com/SangBeom-Hahn/OOP)
 - [Spring Core](https://github.com/SangBeom-Hahn/My_Spring) / [트러블슈팅](https://hsb422.tistory.com/category/%5B%EB%B0%B1%EC%97%94%EB%93%9C%5D/%5Bspring%2BJPA%20%7C%20%EC%9D%B4%EC%8A%88%ED%95%B4%EA%B2%B0%5D)
-- [DL Operation](https://hsb422.tistory.com/category/%5BAI%5D/%5B%EB%94%A5%EB%9F%AC%EB%8B%9D%20%7C%20%EC%9D%B4%EC%8A%88%5D) / [트러블슈팅](https://hsb422.tistory.com/category/%5BAI%5D/%5B%EB%94%A5%EB%9F%AC%EB%8B%9D%20%7C%20%EC%9D%B4%EC%8A%88%ED%95%B4%EA%B2%B0%5D)
+- [DL Operation](https://hsb422.tistory.com/category/%5B%EB%8C%80%EC%99%B8%ED%99%9C%EB%8F%99%5D/%5B%EB%84%A4%EC%9D%B4%EB%B2%84%20BoostCamp%5D) / [트러블슈팅](https://hsb422.tistory.com/category/%5BAI%5D/%5B%EB%94%A5%EB%9F%AC%EB%8B%9D%20%7C%20%EC%9D%B4%EC%8A%88%ED%95%B4%EA%B2%B0%5D)
 
 <!--
 - [Spring Core]()
