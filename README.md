@@ -56,7 +56,7 @@
 3. 데이터 청년 캠퍼스 (```2022.06 ~ 2022.08```)
 4. 어노테이션AI @AnnotationAI <sub><sup>SW intern</sup></sub> (```2023.03 ~ 2023.06```)
 5. 네이버 @NAVER <sub><sup>부스트캠프 AI Tech 6기</sup></sub> (```2023.11 ~ 2024.04```)
-6. 롯데이노베이트 @LotteInnovate <sub><sup>AI 플랫폼팀 SW intern</sup></sub> (```2024.07 ~ 2024.08```)
+6. 롯데이노베이트 @LotteInnovate <sub><sup>SW intern</sup></sub> (```2024.07 ~ 2024.08```)
 
 <!-- 4. 네트워크형 캠퍼스 아카데미(```2022.09 ~ 2023.02```) -->
 
