@@ -55,7 +55,7 @@
 2. 경기대학교 컴퓨터공학부 홈페이지 개발팀 (```2022.06 ~ 2023.06```)
 3. 네이버 @NAVER <sub><sup>부스트캠프 AI Tech 6기</sup></sub> (```2023.11 ~ 2024.04```)
 4. 롯데이노베이트 @LotteInnovate <sub><sup>SW intern</sup></sub> (```2024.07 ~ 2024.08```)
-5. 슈어소프트테크 @SureSoft <sub><sup>SW intern</sup></sub> (```2025.05 ~ 2025.11```)
+5. 슈어소프트테크 @SureSoft <sub><sup>SW intern</sup></sub> (```2025.05 ~ 2025.12```)
 
 <!-- 4. 네트워크형 캠퍼스 아카데미(```2022.09 ~ 2023.02```) -->
 
@@ -76,15 +76,15 @@
 
 
 ## ▎Devblog
+ - [유연하고 확장 가능한 워크플로우 활용법](https://hsb422.tistory.com/entry/%EC%B5%9C%EC%A0%81%ED%99%94-%EC%9C%A0%EC%97%B0%ED%95%98%EA%B3%A0-%ED%99%95%EC%9E%A5-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C%EC%9A%B0-%ED%99%9C%EC%9A%A9%EB%B2%95)
+ - [자바는 Call By Reference를 지원하지 않는다.](https://hsb422.tistory.com/entry/222)
+ - [Github Actions 모듈화와 버저닝이 필요한 이유](https://hsb422.tistory.com/entry/%EB%AC%B8%EB%B2%95-5)
  - [Spring 환경 AI 서비스 실시간 스트림 파이프라인 구축](https://hsb422.tistory.com/entry/2)
  - [컨트롤러 테스트 하는 방법 (with Mockito)](https://hsb422.tistory.com/entry/%ED%85%8C%EC%8A%A4%ED%8A%B8-Mock)
  - [Redis Stream 내부 ObjectHashMapper를 이용하여 HASH 역직렬화 자동화하기](https://hsb422.tistory.com/entry/jackson-json)
  - [Redis Stream에 적절한 RedisSerializer를 사용하자](https://hsb422.tistory.com/entry/%EC%B5%9C%EC%A0%81%ED%99%94-Redis-%EC%A7%81%EB%A0%AC%ED%99%94%EB%A5%BC-%EC%9C%84%ED%95%9C-Java-%EC%A7%81%EB%A0%AC%ED%99%94-%EC%8B%A4%EC%8A%B5)
  - [JVM의 역할과 동작 원리](https://hsb422.tistory.com/entry/%EC%BD%94%EB%93%9C-%EC%A1%B0%EC%9E%91-PARTJVM-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
- - [DL 데이터 제작의 중요성](https://hsb422.tistory.com/entry/%EB%AF%B8-%EA%B9%83%ED%97%99-%ED%94%84%EB%A1%9C%ED%95%84-%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%94%84-AI-Tech-12%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
  - [GPU 풀 구현기](https://hsb422.tistory.com/entry/ML-PARTGPU-%ED%92%80-%EA%B5%AC%ED%98%84%EA%B8%B0-2)
- - [AMP 이슈 및 피클 직렬화로 속도 높이기](https://hsb422.tistory.com/entry/%EB%AF%B8-MLOps-PARTAMP-%EC%88%98%EC%A0%95)
- - [AMP, Prefetch 학습 속도 개선](https://hsb422.tistory.com/entry/MLOps-PART%ED%95%99%EC%8A%B5-%EC%86%8D%EB%8F%84-%EA%B0%9C%EC%84%A0)
 
 <!--
 
