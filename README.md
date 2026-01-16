@@ -51,13 +51,13 @@
 -->
 
 ## ▎Experience
-1. IT 연합동아리 BOAZ 18기 (```2022.01 ~ 2023.01```)
-2. 경기대학교 컴퓨터공학부 홈페이지 개발팀 (```2022.06 ~ 2023.06```)
-3. 네이버 @NAVER <sub><sup>부스트캠프 AI Tech 6기</sup></sub> (```2023.11 ~ 2024.04```)
-4. 롯데이노베이트 @LotteInnovate <sub><sup>SW intern</sup></sub> (```2024.07 ~ 2024.08```)
-5. 슈어소프트테크 @SureSoft <sub><sup>SW intern</sup></sub> (```2025.05 ~ ```)
+<!-- 1. IT 연합동아리 BOAZ 18기 (```2022.01 ~ 2023.01```) -->
+<!-- 2. 경기대학교 컴퓨터공학부 홈페이지 개발팀 (```2022.06 ~ 2023.06```) -->
+1. 넥스트그라운드 @NextGround <sub><sup>BE intern</sup></sub> (```2026.01 ~ now```)
+2. 슈어소프트테크 @SureSoft <sub><sup>SW intern</sup></sub> (```2025.05 ~ 2025.12```)
+3. 롯데이노베이트 @LotteInnovate <sub><sup>SW intern</sup></sub> (```2024.07 ~ 2024.08```)
+4. 네이버 @NAVER <sub><sup>부스트캠프 6기</sup></sub> (```2023.11 ~ 2024.04```)
 
-<!-- 4. 네트워크형 캠퍼스 아카데미(```2022.09 ~ 2023.02```) -->
 
 ## ▎Talks
  - [캐글코리아 - 분산 GPU 메시지 스케줄러 구현 및 운영 방법 오프라인 발표](https://hsb422.tistory.com/entry/talkskaggle-korea)
